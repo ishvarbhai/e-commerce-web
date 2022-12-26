@@ -1,0 +1,10 @@
+.main-top .top-list li a{
+    text-decoration: none;
+}
+#second-top{
+    /* height: 100px; */
+    background-color: aquamarine;
+}
+#second-top .ele-mart{
+    margin: auto;
+}
